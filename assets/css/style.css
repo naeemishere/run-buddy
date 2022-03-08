@@ -16,7 +16,9 @@ body {
 
 header a {
     color: #fce138;
+    text-decoration: none;
 }
-git add -A
-git commit -m "Comment"
-git push origin main 
+header nav {
+    float: right;
+    margin: 7px 0;
+}
