@@ -1,0 +1,70 @@
+.hero {
+    background-position: bottom;
+    height:auto;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.page-title {
+    color: #024e76;
+    display: inline-block;
+    border-bottom: 4px solid #024e76;
+    padding: 0 40px 15px 40px;
+    font-weight: normal;
+    font-size: 42px;
+    font-style:italic;
+}
+
+
+
+.secondary-content {
+    width: 80%;
+    margin: center;
+    color:#024e76;
+    padding: 0px 140px;
+    line-height: 3;
+}
+
+
+.secondary-content h3 {
+    font-size: 35px;
+    line-height: 3;  
+}
+.secondary-content p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: center;
+}
+.secondary-content ul {
+    color: #068d8d;
+    padding-left: 20px;
+    padding-top: 15px;
+    padding-right: 35px;
+    line-height: 1.5;
+}
+
+.secondary-content li {
+    line-height: 1.8;
+}
+
+
+.br {
+    display: block;
+    margin-bottom: 1.5em;
+
+}
+
+address div {
+    font-size: 16px;
+    line-height: 1.5;
+    padding: 0px 140px;
+}
+
+address h3 {
+    width: 80%;
+    margin: center;
+    color:#024e76;
+    padding: 5px 140px;
+    font-size: 35px;
+    line-height: 1.5;
+
+}
