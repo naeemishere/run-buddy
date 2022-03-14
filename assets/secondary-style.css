@@ -17,10 +17,8 @@
 
 
 .secondary-content {
-    width: 80%;
-    margin: center;
+    padding: 0px 150px;
     color:#024e76;
-    padding: 0px 140px;
     line-height: 3;
 }
 
@@ -56,14 +54,14 @@
 address div {
     font-size: 16px;
     line-height: 1.5;
-    padding: 0px 140px;
+    padding: 0px 220px;
 }
 
 address h3 {
     width: 80%;
     margin: center;
     color:#024e76;
-    padding: 5px 140px;
+    padding: 0px 220px;
     font-size: 35px;
     line-height: 1.5;
 
